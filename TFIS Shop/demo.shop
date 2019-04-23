@@ -1,0 +1,11 @@
+{
+    "items":[
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"Demo"
+        }
+    ],
+    "name":"Demo",
+    "profit":0.0
+}

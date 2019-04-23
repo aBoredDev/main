@@ -1,0 +1,21 @@
+{
+    "items":[
+        {
+            "amount":10,
+            "min_cost":0.5,
+            "name":"Test Item #1"
+        },
+        {
+            "amount":8,
+            "min_cost":1,
+            "name":"Test Item #2"
+        },
+        {
+            "amount":1,
+            "min_cost":2,
+            "name":"Test Item #3"
+        }
+    ],
+    "name":"Test",
+    "profit":0.0
+}
