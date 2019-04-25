@@ -7,3 +7,7 @@ return
 ^i::
 Run python
 return
+
+#c::
+Run C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+return
