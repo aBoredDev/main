@@ -5,7 +5,7 @@ Run C:\Program Files\Git\git-bash.exe
 return
 
 ^i::
-Run python
+Run cmd
 return
 
 #c::
