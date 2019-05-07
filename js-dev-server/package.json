@@ -1,0 +1,11 @@
+{
+  "name": "js-dev-server",
+  "version": "1.0.0",
+  "description": "A simple node.js webserver to be used for development",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbie Munro/Eagle_Eye#6238/aBoredDev",
+  "license": "GPL-3.0"
+}
