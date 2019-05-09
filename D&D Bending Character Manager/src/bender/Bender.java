@@ -44,7 +44,7 @@ public class Bender {
     private Race race;
     private String features;
     private Integer points;
-    private spentPoints;
+    private Integer spentPoints;
     Bender(Element e, String n, Integer l, Integer exp, Race r) {
         element = e;
         name = n;
