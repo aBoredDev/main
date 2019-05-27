@@ -1,15 +1,20 @@
 from os import system
 
-input_string = str(input(""))
-output_string = ""
+input_string = input("Input: ")
 input_list = list(input_string)
+output_string = ""
+upper = False
 
-for i in range(len(input_list)):
-    if (i % 2) != 0:
-        output_string += input_list[i].upper()
+for i in input_list:
+    if(i != ' '):
+        if(upper == True):
+            output_string += i.lower()
+            upper = False
+        else:
+            output_string += i.upper()
+            upper = True
     else:
-        output_string += input_list[i].lower()
+        output_string += i
 
-print(output_string)
-
+print("Output: %s" % output_string)
 system("cmd")

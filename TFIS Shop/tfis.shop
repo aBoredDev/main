@@ -1,0 +1,46 @@
+{
+    "items":[
+        {
+            "amount":0,
+            "min_cost":0.5,
+            "name":"#1 DAD Sculpture"
+        },
+        {
+            "amount":0,
+            "min_cost":0.5,
+            "name":"#1 MOM Sculpture"
+        },
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"Beauty Blender Baby"
+        },
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"MOM Keychain"
+        },
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"Emoji Faces"
+        },
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"Raven Pride Keychain"
+        },
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"Pumpkin Candle Holder"
+        },
+        {
+            "amount":1,
+            "min_cost":0.5,
+            "name":"Tri-Spinner"
+        }
+    ],
+    "name":"Terry Fox Innovation Society",
+    "profit":2.0
+}
