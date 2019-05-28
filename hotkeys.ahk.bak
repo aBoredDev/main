@@ -5,9 +5,15 @@ Run C:\Program Files\Git\git-bash.exe
 return
 
 ^i::
-Run python
+Run cmd
 return
 
 #c::
 Run C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 return
+
+^-::
+Send -{Space}
+return
+
+::{SIGN}::Signed,{Enter}Robbie Munro{Enter}{Enter}You cannot avoid the inevitable

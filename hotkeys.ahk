@@ -11,3 +11,9 @@ return
 #c::
 Run C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 return
+
+^-::
+Send -{Space}
+return
+
+::{sign}::Signed,{Enter}Robbie Munro{Enter}{Enter}You cannot avoid the inevitable
